@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.seccion-01 {
+    display: flex;
+    align-items: center;
+    background-color: cyan;
+    justify-content: center;
+    height: 500px;
+}
+
