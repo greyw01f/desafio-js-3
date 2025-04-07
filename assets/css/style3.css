@@ -1,0 +1,8 @@
+.seccion-03{
+    display: flex;
+    align-items: center;
+    background-color: dodgerblue;
+    justify-content: center;
+    height: 200px;
+    gap: 10px;
+}
