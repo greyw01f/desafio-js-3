@@ -13,6 +13,6 @@ botonSticker.addEventListener('click',function() {
     if(valorTotal<10){
         muestraValor.innerHTML = "LLevas :" + "" + valorTotal + "" +"Stickers"
     }else{
-        muestraValor.innerHTML = "LLevas demasiados Stickers"
+        muestraValor.innerHTML = "Llevas demasiados Stickers"
     }
 })
